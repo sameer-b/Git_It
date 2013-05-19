@@ -1,0 +1,14 @@
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\obj\Debug\App.g.i.cs
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\obj\Debug\MainPage.g.i.cs
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\obj\Debug\searchUsers.g.i.cs
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\obj\Debug\Git_It.g.resources
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\Bin\Debug\ApplicationIcon.png
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\Bin\Debug\Background.png
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\Bin\Debug\Git_It.dll
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\Bin\Debug\Git_It.pdb
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\Bin\Debug\AppManifest.xaml
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\Bin\Debug\Git_It.xap
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\obj\Debug\Git_It.dll
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\obj\Debug\Git_It.pdb
+c:\users\sam\documents\visual studio 2010\Projects\Git_It\Git_It\obj\Debug\XapCacheFile.xml
